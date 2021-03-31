@@ -5,4 +5,4 @@ build/
 doc/*.txt
 doc/**/*.pdf
 !build
-!doc/112
+!doc/112/
