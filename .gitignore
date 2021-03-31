@@ -4,4 +4,4 @@
 build/
 doc/*.txt
 doc/**/*.pdf
-
+!build
